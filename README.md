@@ -10,7 +10,10 @@ Backend: https://github.com/Tdavey1/oh_checker
 
 ## Screen shots
 
-the google calendar api is used to get the information for classes after a specific time to the end of the day
+![](home.png)
+![](courses.png)
+![](bookmarks.png)
+![](office_hours.png)
 
 ## Description
 
